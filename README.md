@@ -1,2 +1,2 @@
 # TimeFighter
-kotlin sample project from Raywenderlich
+Kotlin First Project from Raywenderlich
